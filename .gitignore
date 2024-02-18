@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+# Jupyter working directory
+.jupyter
+
+# Python environments
+env/
+venv/
+pyvenv.cfg
+.python-version
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# PyCharm
+.idea/
+# PyCharm virtualenv
+.venv/
+
+# VS Code
+.vscode/
+
+# Data files
+*.csv
+*.dat
+*.log
+*.tmp
+*.out
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archives (uncomment this if you wish to ignore archives)
+# *.zip
+# *.tar.gz
+
+# Large files (uncomment to ignore large files)
+# *.hdf5
+# *.pkl
+
+# Markdown export of Jupyter notebooks
+*.md
+
+# HTML export of Jupyter notebooks
+*.html
+
+# PDF export of Jupyter notebooks
+*.pdf
